@@ -5,3 +5,5 @@ The HC-SR04 ultrasonic sensor uses SONAR to determine the distance of an object 
 - connect VCC pin on sensor with 5V pin of Arduino
 - connect Trigger Pin of sensor with D7
 - connect Echo Pin of sensor with D6
+
+Theoratically this code should work with any Arduino. I have tested in Arduino Mega 
